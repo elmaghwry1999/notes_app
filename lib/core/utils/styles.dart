@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 
 abstract class StyleApp{
-  static  const textStyle20=TextStyle(
-    fontSize: 20,
+  static  const textStyle30=TextStyle(
+    fontSize: 30,
     fontWeight: FontWeight.w700,
-    color: Color(0xff000000),
+    color: Color(0xffffffff),
   );
   static  const textStyle22=TextStyle(
     fontSize: 22,
